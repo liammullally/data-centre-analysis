@@ -84,7 +84,6 @@ def refine(data):
         "uid",
         "description",
         "area_name",
-        "app_type",
         "start_date",
         "decided_date",
         "address",
@@ -94,6 +93,8 @@ def refine(data):
         "link",
         "applicant_company",
         "agent_company",
+        "app_state",
+        "app_type",
         "n_comments"
     ]
 
